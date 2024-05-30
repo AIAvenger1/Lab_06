@@ -1,3 +1,8 @@
+//
+// Bohdan Petrov
+// exercise.h
+//
+
 #include "exercise.h"
 
 void read_stream(map<pair<int,int>,pair<bool,int> >& Grid, ifstream & is)
